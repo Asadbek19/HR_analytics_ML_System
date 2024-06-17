@@ -27,6 +27,15 @@ HR-аналитики компании «Работа с заботой» пом
 
 ## Шаг 1. Загрузка данных
 Загрузите файлы с данными:
+
 Тренировочная выборка:
 
-train_job_satisfaction_rate.csv
+- https://code.s3.yandex.net/datasets/train_job_satisfaction_rate.csv
+
+Входные признаки тестовой выборки:
+
+https://code.s3.yandex.net/datasets/test_features.csv
+
+Целевой признак тестовой выборки:
+
+https://code.s3.yandex.net/datasets/test_target_job_satisfaction_rate.csv
