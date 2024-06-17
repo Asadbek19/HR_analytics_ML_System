@@ -34,8 +34,50 @@ HR-аналитики компании «Работа с заботой» пом
 
 Входные признаки тестовой выборки:
 
-https://code.s3.yandex.net/datasets/test_features.csv
+- https://code.s3.yandex.net/datasets/test_features.csv
 
 Целевой признак тестовой выборки:
 
-https://code.s3.yandex.net/datasets/test_target_job_satisfaction_rate.csv
+- https://code.s3.yandex.net/datasets/test_target_job_satisfaction_rate.csv
+
+
+## Шаг 2. Предобработка данных
+
+## Шаг 3. Исследовательский анализ данных
+
+## Шаг 4. Подготовка данных
+
+## Шаг 5. Обучение моделей
+
+## Шаг 6. Оформление выводов
+
+
+# Задача 2: предсказание увольнения сотрудника из компании
+
+## Шаг 1. Загрузка данных
+
+Загрузите данные из файлов:
+
+Тренировочная выборка:
+
+- https://code.s3.yandex.net/datasets/train_quit.csv
+
+Входные признаки тестовой выборки те же, что и в прошлой задаче:
+
+- https://code.s3.yandex.net/datasets/test_features.csv
+
+Целевой признак тестовой выборки:
+
+- https://code.s3.yandex.net/datasets/test_target_quit.csv
+
+## Шаг 2. Предобработка данных
+
+## Шаг 3. Исследовательский анализ данных
+
+## Шаг 4. Добавление нового входного признака
+
+## Шаг 5. Подготовка данных
+
+## Шаг 6. Обучение модели
+
+## Шаг 7. Выводы
